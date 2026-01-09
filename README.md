@@ -1,4 +1,4 @@
-# Hi there, I'm [您的中文名/英文名] 👋
+# Hi there, I'm Kian Yuan Lim, aka Craig 👋
 ### Ph.D. in Nutritional Science | Data Scientist | Backend & Data Engineer
 
 > **致力於將營養科學、統計學與資訊科學深度整合，透過 AI 與大數據分析推動精準健康與健康老化研究。**
@@ -43,7 +43,7 @@
 ---
 
 ## ✉️ 聯繫我 (Contact)
-* **研究興趣**: AI in Nutrition, Healthy Aging, Digital Health Implementation.
+* **研究興趣**: Nutritional Data Science and Policy Laboratory
 * **LinkedIn**: [您的連結]
 * **Email**: limkianyuan@gmail.com
 
